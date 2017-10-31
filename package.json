@@ -7,7 +7,7 @@
     "myna-server": "git+https://github.com/gsopu8065/myna-server.git",
     "lodash": "4.17.4",
     "mongodb": "2.1.16",
-    "geocoder": "3.21.0",
+    "geocoder": "0.2.3",
     "bluebird": "3.5.1"
   },
   "deprecated": false,
