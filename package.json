@@ -8,7 +8,8 @@
     "lodash": "4.17.4",
     "mongodb": "2.1.16",
     "geocoder": "0.2.3",
-    "bluebird": "3.5.1"
+    "bluebird": "3.5.1",
+    "get-average-color": "0.0.6"
   },
   "deprecated": false,
   "description": "Global services for Myna",
